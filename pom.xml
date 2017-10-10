@@ -14,21 +14,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>mysql</groupId>
-      <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.32</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-lang3</artifactId>
-      <version>3.5</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-core</artifactId>
-      <version>4.3.6.RELEASE</version>
-    </dependency>
   </dependencies>
   <build>
     <finalName>ssm_demo</finalName>
